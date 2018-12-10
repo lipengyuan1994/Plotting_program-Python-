@@ -7,3 +7,4 @@ A simple program for plotting
 * Create a sub folder name 'data' 
 * Download the csv file to the 'data' folder
 * Then you can test the program
+* The two ipynb files have the same program code but different results to better show the function of the program. You can choose anyone to download and test. 
